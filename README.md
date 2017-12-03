@@ -1,7 +1,7 @@
-#All Bootstrap 4 Components
+# All Bootstrap 4 Components
 This is set of all markup elements from Bootstrap 4
 
-##[See it in 1 page](https://most-effect.github.io/All-Bootstrap-4-Components/index.html)
+## [See it in 1 page](https://most-effect.github.io/All-Bootstrap-4-Components/index.html)
 
 #### For what?
 1.To quickly find the desired component and copy it
@@ -11,7 +11,7 @@ This is set of all markup elements from Bootstrap 4
 3.To simply and quickly stylize several components at once
 
 
-####How to use:
+#### How to use:
 
 1.Clone it:
 ```
